@@ -30,6 +30,6 @@
 
 
 
-## Page Article
+## Page Contact
 
 ![Acceuil](./contact.jpg)
